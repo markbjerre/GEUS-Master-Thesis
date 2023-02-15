@@ -12,7 +12,7 @@ Original file is located at
 
 """GC Net Data"""
 
-pip install git+https://github.com/GEUS-PROMICE/pyNEAD.git
+#pip install git+https://github.com/GEUS-PROMICE/pyNEAD.git
 
 #!/usr/bin/env bash
 
