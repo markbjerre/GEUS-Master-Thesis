@@ -46,4 +46,9 @@
 |  NEEM           | air_temperature_2            |      5       |                            10 |      -45.0371    | -35.9807      |
 |  NEEM           | relative_humidity_2          |      5.55556 |                             9 |       58.2257    |  68.7543      |
 |  NEEM           | relative_humidity_2_cor      |      5.55556 |                             9 |       88.9786    |  97.0271      |
-hello
+
+t0 | t1 |  variable | flag | comment | URL_graphic
+-- | -- |  -- | -- | -- | -- 
+2017-05-23 10:00:00 | 2017-06-10 11:00:00 | DepthPressureTransducer_Cor | CHECKME | manually flagged by bav | https://github.com/GEUS-PROMICE/AWS-data/blob/main/flags/graphics/KPC_L_error_data.png
+... | ... |  ... | ... | ... | ...
+
