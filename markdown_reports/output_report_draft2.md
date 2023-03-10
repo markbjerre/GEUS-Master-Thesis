@@ -49,7 +49,18 @@
 | 39 | NEEM           | relative_humidity_2          | 5.6%         |                             9 |       58.2257    |  68.7543      |
 | 40 | NEEM           | relative_humidity_2_cor      | 5.6%         |                             9 |       88.9786    |  97.0271      |
 
-<p><test> <summary>Sometext</summary> 
- <br/> this is a test to test collapsible 
- </test></p>
+|                             | 0                       |
+|:----------------------------|:------------------------|
+| Station                     | Swiss Camp 10m          |
+| Measurement                 | relative_humidity_2_cor |
+| Percentile                  | 90.6%                   |
+| Number of Comparison Values | 16.0                    |
+| Original Value              | 88.59571428571428       |
+| Median                      | 81.66571428571429       |
+
+<p><img alt="Boxplot" src="/../GEUS-Master-Thesis/figures/to_markdown/fig1.png" /></p>
+
+<details> <summary>This collapsible can contain more detailed information </summary> 
+ <br/> insert text here  
+ </details>
 
