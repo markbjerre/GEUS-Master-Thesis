@@ -2,7 +2,7 @@
 <p>Meterological outliers for 2019-01-13, measured as mean of week compared to similar period previous years</p>
 <hr />
 <h3>Outliers by percentiler (filtered top/bottom 10%)</h3>
-| x | Station        | Measurement                  |   Percentile |   Number of Comparison Values |   Original Value |        Median |
+<p>|    | Station        | Measurement                  |   Percentile |   Number of Comparison Values |   Original Value |        Median |
 |---:|:---------------|:-----------------------------|-------------:|------------------------------:|-----------------:|--------------:|
 |  0 | Swiss Camp 10m | relative_humidity_2_cor      |     90.625   |                            16 |       88.5957    |  81.6657      |
 |  1 | Swiss Camp     | relative_humidity_1_cor      |     91.1765  |                            17 |      109.02      | 100.726       |
@@ -44,4 +44,4 @@
 | 37 | NEEM           | air_temperature_1            |      5       |                            10 |      -45.6529    | -36.1943      |
 | 38 | NEEM           | air_temperature_2            |      5       |                            10 |      -45.0371    | -35.9807      |
 | 39 | NEEM           | relative_humidity_2          |      5.55556 |                             9 |       58.2257    |  68.7543      |
-| 40 | NEEM           | relative_humidity_2_cor      |      5.55556 |                             9 |       88.9786    |  97.0271      |
+| 40 | NEEM           | relative_humidity_2_cor      |      5.55556 |                             9 |       88.9786    |  97.0271      |</p>
