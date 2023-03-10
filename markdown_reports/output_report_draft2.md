@@ -49,10 +49,7 @@
 | 39 | NEEM           | relative_humidity_2          | 5.6%         |                             9 |       58.2257    |  68.7543      |
 | 40 | NEEM           | relative_humidity_2_cor      | 5.6%         |                             9 |       88.9786    |  97.0271      |
 
-<p><test> 
-    <summary>Sometext</summary></p>
-<pre><code>                   this is a test to test collapsible
-
-                   &lt;/test&gt;
-</code></pre>
+<p><test> <summary>Sometext</summary> 
+ <br/> this is a test to test collapsible 
+ </test></p>
 
