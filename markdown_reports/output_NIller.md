@@ -1,5 +1,11 @@
 <h2>Extreme Weather Events Detection</h2>
 
+<hr />
+
+<h3>This page displays an overview of the yearly and monthly reports that are generated for climatology reporting</h3>
+<p>The climatology values are calculated as the values of the respective time period in comparison to all other values within the same time period. </p>
+<p>Please scroll down for an example.</p>
+
 <details> <summary> 2018 </summary> 
  <br/> <p><a href="./2018.md">2018.md</a></p> 
  </details>
@@ -7,11 +13,6 @@
 <details> <summary> 2019 </summary> 
  <br/> <p><a href="./2019.md">2019.md</a></p> 
  </details>
-
-<hr />
-
-<h3>This page displays an overview of the yearly and monthly reports that are generated for climatology reporting</h3>
-<p>The climatology values are calculated as the values of the respective time period in comparison to all other values within the same time period. Please scroll down for an example.</p>
 
 |                             | 0                       |
 |:----------------------------|:------------------------|
