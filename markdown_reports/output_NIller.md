@@ -1,7 +1,9 @@
 <h2>Extreme Weather Events Detection</h2>
 <p>Meterological outliers for 2019-01-13, measured as mean of week compared to similar period previous years</p>
 
-<p><a href="output_report_draft2.md">View Output Report Draft 2</a></p>
+<details> <summary> 2018 </summary> 
+ <br/> <p><a href="output_report_draft2.md">View Output Report Draft 2</a></p>  
+ </details>
 
 <hr />
 
