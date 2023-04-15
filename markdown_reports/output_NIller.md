@@ -2,9 +2,10 @@
 
 <hr />
 
-<h3>This page displays an overview of the yearly and monthly reports that are generated for climatology reporting</h3>
+<h3></h3>
+<p>This page displays an overview of the yearly and monthly reports that are generated for climatology reporting </p>
 <p>The climatology values are calculated as the values of the respective time period in comparison to all other values within the same time period. </p>
-<p>Please scroll down for an example.</p>
+<p>You find the yearly and monthly reports under the following links.</p>
 
 <details> <summary> 2018 </summary> 
  <br/> <p><a href="./2018.md">2018.md</a></p> 
