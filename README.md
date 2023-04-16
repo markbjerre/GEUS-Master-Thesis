@@ -3,7 +3,7 @@
 <hr />
 
 <h3></h3>
-<p>This page displays an overview of the yearly and monthly reports that are generated for climatology reporting </p>
+<p>This page displays an overview of the yearly and monthly reports that are generated for climatology reporting. </p>
 <p>The climatology values are calculated as the values of the respective time period in comparison to all other values within the same time period. </p>
 
 <h3>You find the yearly and monthly reports under the following links.</h3>
@@ -22,4 +22,6 @@
 
 <h3></h3>
 <p>You can run a custom climatology report by running the code in the following link: </p>
+
+<p><a href="../scripts/Climatology.ipynb">Custom Climatology Report</a></p>
 
